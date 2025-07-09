@@ -14,5 +14,5 @@ Pronto...
 
 ## 📄 Licencia
 
-Este proyecto está bajo la licencia de la Sideral Carrion
+Este proyecto está bajo la licencia de la Sideral Carrion.
 
